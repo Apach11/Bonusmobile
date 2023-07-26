@@ -5,8 +5,8 @@ public class Main {
         int replenishment = 1300;
         int bonus;
 
-        if (replenishment >= 1000){
-            bonus = replenishment/ award;
+        if (replenishment >= 1000) {
+            bonus = replenishment / award;
         } else {
             bonus = 0;
         }
